@@ -1,0 +1,24 @@
+h1{
+    width: 100%;
+    font-size: 35px !important;
+    font-family: 'Lora', serif;
+    margin-top: 0px;
+}
+#bofor_gun{
+    width: 200px;
+    height: 45px;
+    font-size: 25px !important;
+    font-family: 'Lora', serif;
+}
+.crf{
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: grey;
+    color: rgb(0, 0, 0);
+    position:fixed;
+}
+canvas{
+    box-shadow: 1px 1px 10px #00f241;
+}
